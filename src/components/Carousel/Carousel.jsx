@@ -96,8 +96,10 @@ const Carousel = ({ data, loading, endpoint, title }) => {
           </div>
         )}
       </ContentWrapper>
+
     </div>
   );
 };
+
 
 export default Carousel;
